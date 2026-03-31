@@ -19,7 +19,7 @@ $account2->withdraw(1000000);// 출금 함수
 
 $accounts = [$account1, $account2];
 
-$user = new Customer('kisu','snowberger');
+$user = new Customer('kisu','hong');
 ?>
 
 <?php include ('includes/header.php'); ?>
